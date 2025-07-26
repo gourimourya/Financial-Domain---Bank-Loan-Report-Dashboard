@@ -1,21 +1,56 @@
-# Bank-Loan-Report-Dashboard
+# 🏦 Bank‑Loan Report & Dashboard (SQL → Excel → Power BI)
 
-.This Dashboard are Bank Loan Report | summary | overview | details are Excel,Sql in Power BI
-1.Import Data in Power Bi
-2.Connect of sql to power bi
-3.Data Transport in Power Bi
-4.Data Cleaning in Power Bi
-5.Using KPI'S in power bi
-6.Add new column and add new tables in power bi
-7.Using DAX Calculations in power bi
-8.Add New Measures in power bi
-9.Creating are three report in power bi
-10.Data Visualization in power bi
-11.Using Matrices in power bi
-12.Using Shapes in power bi
-13.Creating Groups in power bi
-14.Add Bank images in power bi
-15.Creating Navigations in power bi
-16.Using Silicers in power bi
-17.Insights Project in power bi
-18.Export Dashboard For Sharing and Publishing in power bi
+# 1️⃣ Problem Statement
+Banks need timely insight into **loan approvals, disbursals, and default risk**.  
+This project transforms raw application data into a decision‑ready dashboard that answers:
+
+* What is the current approval vs rejection rate?
+* Which customer segments drive the highest default percentage?
+* How have monthly disbursals and default ratios trended over time?
+* Does applicant income, credit history, or property area impact loan status?
+
+# 📌 Dashboard Overview
+# 📈 KPIs & Metrics:
+- Total Applications  
+- Approved Loans  
+- Default Rate (%)  
+- Loan Disbursal Amount  
+- Average Loan Amount  
+- Approval Rate by Gender, Education, and Marital Status  
+
+# 🧠 Risk & Default Analysis:
+- Defaulter Segmentation (Gender, Education, Self-employed)  
+- Income vs Loan Amount correlation  
+- Property Area-wise loan status  
+
+# 📅 Time-Based Analysis:
+- Monthly or Year-wise Approval Trends  
+- Timeline of Defaults and Approvals
+- 
+# 🔍 Filters:
+- Gender, Education, Property Area, Marital Status  
+- Loan Status and Credit History  
+
+# 🛠 Tools & Techniques
+ **Microsoft Excel**
+  - Pivot Tables and Charts
+  - IF, COUNTIFS, SUMIFS, AVERAGEIF formulas
+  - Slicers, Conditional Formatting
+
+ **Power BI**
+  - Bar, Pie, Donut, Card Visuals
+  - DAX Measures: `CALCULATE()`, `FILTER()`, `AVERAGEX()`, `COUNTAX()`
+  - Drill-throughs and Filters
+  - Relationship Modeling
+
+# 📚 Key Learnings
+- Data Cleaning & Transformation  
+- Insightful visualization of risk and approvals  
+- Dynamic reporting using DAX  
+- Data-driven decision support in financial sector  
+
+# 📈 Use Cases
+- Bank Loan Risk Management  
+- Credit Policy Assessment  
+- Default Prevention Strategy  
+- Loan Approval Optimization  
